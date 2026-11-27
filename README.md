@@ -21,7 +21,8 @@ NetworkLight — монитор доступности узлов для Windows
   
 - **Закрепление окна.** Опция «Закрепить» оставляет монитор на экране при нажатии **Win+D**.
 
-  <img width="1919" height="979" alt="NetWork Light" src="https://github.com/user-attachments/assets/b58daa25-2aca-4913-9397-5de4a909a1d7" />
+<img width="1913" height="979" alt="NetWork Light2" src="https://github.com/user-attachments/assets/c659a73e-f06e-4275-8bdb-113d6da3f589" />
+
 
 
 
