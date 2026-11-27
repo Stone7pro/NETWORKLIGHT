@@ -17,5 +17,5 @@ NetworkLight - host availability monitor for Windows: checks via ICMP (ping) or 
 
 - **Dock the window.** The Dock option keeps the monitor on the screen when you press **Win+D**.
 
-- **NetworkLight** — монитор сети для Windows. Он помогает заметить потерю связи и её восстановление, даже когда вы не смотрите на экран: программа подаёт звуковые сигналы и отправляет уведомления на почту.
+
 
