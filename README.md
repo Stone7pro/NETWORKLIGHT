@@ -17,5 +17,8 @@ NetworkLight - host availability monitor for Windows: checks via ICMP (ping) or 
 
 - **Dock the window.** The Dock option keeps the monitor on the screen when you press **Win+D**.
 
+  <img width="1919" height="979" alt="NetWork Light" src="https://github.com/user-attachments/assets/b58daa25-2aca-4913-9397-5de4a909a1d7" />
+
+
 
 
